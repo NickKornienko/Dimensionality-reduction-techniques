@@ -1,7 +1,12 @@
 # Dimensionality-reduction-techniques
 
-A) Dimensionality_reduction_techniques.ipynb
+1) Dimensionality_reduction_techniques.ipynb
 
-B) Dimensionality_reduction_and_clustering.ipynb
+2) Dimensionality_reduction_and_clustering.ipynb
 
-C) 
+3) 
+
+
+
+5) Unable to acess databricks as both my student and personal accounts are hit with a paywall due to being previously used.
+An equivilent python file is provided that can run in a databricks environment
